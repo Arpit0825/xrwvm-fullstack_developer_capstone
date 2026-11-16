@@ -9,3 +9,5 @@
 ## Description
 
 This project is a Full Stack Developer Capstone application that demonstrates the development of a full-stack web application using frontend and backend technologies.
+
+CI assignment demonstration: GitHub Actions checks Django and builds React on pushes to main.
